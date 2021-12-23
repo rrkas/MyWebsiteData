@@ -1,28 +1,28 @@
-class,type,subject,language,source,material_name,link
+class,type,subject,language,source,material_name,gdrive_file_id
 
-1,Book,English,English,NCERT,Raindrops,https://drive.google.com/file/d/1oeutp5CMzEOxJcUw3aN4Pr3j75jiAIWL/view?usp=sharing
-1,Book,English,English,NCERT,Marigold,https://drive.google.com/file/d/1XthnoDAG4pA4-kzpWOyeHKBnvcasUqML/view?usp=sharing
-1,Book,Maths,English,NCERT,Math Magic,https://drive.google.com/file/d/1EFQGCcNJeCHCOhM44iQcJEjZXEryJcca/view?usp=sharing
-1,Book,Maths,Hindi,NCERT,Ganit ka Jaadu,https://drive.google.com/file/d/1r14CU9awF2xVf94ZtOxmTWhSOqhYu_8X/view?usp=sharing
-1,Book,Maths,Urdu,NCERT,Riyazi ka Jadoo,https://drive.google.com/file/d/1SDCXJDEa83fspYI2Cjp8jbMhLn1OnqCL/view?usp=sharing
-1,Book,Hindi,Hindi,NCERT,Rimjhim,https://drive.google.com/file/d/1b2ESWdZEAbVHF1-F5__ZqYKlwJFssie-/view?usp=sharing
-1,Book,Urdu,Urdu,NCERT,Ibtedai Urdu,https://drive.google.com/file/d/1l332fany-uORCQuGpUCoYEc3abs4_h81/view?usp=sharing
+1,Book,English,English,NCERT,Raindrops,1oeutp5CMzEOxJcUw3aN4Pr3j75jiAIWL
+1,Book,English,English,NCERT,Marigold,1XthnoDAG4pA4-kzpWOyeHKBnvcasUqML
+1,Book,Maths,English,NCERT,Math Magic,1EFQGCcNJeCHCOhM44iQcJEjZXEryJcca
+1,Book,Maths,Hindi,NCERT,Ganit ka Jaadu,1r14CU9awF2xVf94ZtOxmTWhSOqhYu_8X
+1,Book,Maths,Urdu,NCERT,Riyazi ka Jadoo,1SDCXJDEa83fspYI2Cjp8jbMhLn1OnqCL
+1,Book,Hindi,Hindi,NCERT,Rimjhim,1b2ESWdZEAbVHF1-F5__ZqYKlwJFssie-
+1,Book,Urdu,Urdu,NCERT,Ibtedai Urdu,1l332fany-uORCQuGpUCoYEc3abs4_h81
 
-2,Book,English,English,NCERT,Raindrops,https://drive.google.com/file/d/1Q7NOLPCWozzJDXp9gtIPG1LOMrXzM2L3/view?usp=sharing
-2,Book,English,English,NCERT,Marigold,https://drive.google.com/file/d/1A5pwcac-rfoveBtWxTCS9_KsxHS1vQSL/view?usp=sharing
-2,Book,Hindi,Hindi,NCERT,Rimjhim,https://drive.google.com/file/d/1zhkahiaaEDBqef48GmamWE7c3vT6ce38/view?usp=sharing
-2,Book,Maths,Hindi,NCERT,Ganit ka Jaadu,https://drive.google.com/file/d/1P6DmywtJBGN1-p6GCifYK25-AXKW8wz4/view?usp=sharing
-2,Book,Maths,English,NCERT,Math Magic,https://drive.google.com/file/d/18IRM1GgX18lrwBrTdq_gLQO-ZHgjndJ9/view?usp=sharing
-2,Book,Maths,Urdu,NCERT,Riyazi ka Jadoo,https://drive.google.com/file/d/13X3Bpz-7-MNAG4D7siFeEj5SXA8m4no0/view?usp=sharing
-2,Book,Urdu,Urdu,NCERT,Ibtedai Urdu,https://drive.google.com/file/d/1PZ5JSJOfdyl8LTK3p7ESGoanbZ8eqgSj/view?usp=sharing
+2,Book,English,English,NCERT,Raindrops,1Q7NOLPCWozzJDXp9gtIPG1LOMrXzM2L3
+2,Book,English,English,NCERT,Marigold,1A5pwcac-rfoveBtWxTCS9_KsxHS1vQSL
+2,Book,Hindi,Hindi,NCERT,Rimjhim,1zhkahiaaEDBqef48GmamWE7c3vT6ce38
+2,Book,Maths,Hindi,NCERT,Ganit ka Jaadu,1P6DmywtJBGN1-p6GCifYK25-AXKW8wz4
+2,Book,Maths,English,NCERT,Math Magic,18IRM1GgX18lrwBrTdq_gLQO-ZHgjndJ9
+2,Book,Maths,Urdu,NCERT,Riyazi ka Jadoo,13X3Bpz-7-MNAG4D7siFeEj5SXA8m4no0
+2,Book,Urdu,Urdu,NCERT,Ibtedai Urdu,1PZ5JSJOfdyl8LTK3p7ESGoanbZ8eqgSj
 
-3,Book,English,English,NCERT,Marigold,https://drive.google.com/file/d/1j7U5E4P6jl5-nVB0ixEvzqDfOETeFlHO/view?usp=sharing
-3,Book,Hindi,Hindi,NCERT,Rimjhim,https://drive.google.com/file/d/17bjS-cEnctAOr960Ift0_bpB2xemA7Qt/view?usp=sharing
-3,Book,Maths,Hindi,NCERT,Ganit ka Jaadu,https://drive.google.com/file/d/1GHcRrtjwISXQSr42MR1lJ7Ppfwja0UA-/view?usp=sharing
-3,Book,Maths,English,NCERT,Math Magic,https://drive.google.com/file/d/1_K08o6BJbBtks63Q9cAP3Ez69tsFrSh2/view?usp=sharing
-3,Book,Maths,Urdu,NCERT,Riyazi ka Jadoo,https://drive.google.com/file/d/1unyvtmYLkw7xO3srJfc9qN23z1qNXRqj/view?usp=sharing
-3,Book,Environmental Studies,Hindi,NCERT,Aas Paas,https://drive.google.com/file/d/1tuPctRGSdMqP54gYEG1rj05ln0unG25m/view?usp=sharing
-3,Book,Environmental Studies,Urdu,NCERT,Aas Paas (Urdu),https://drive.google.com/file/d/1DxDKJUIqmE9URp7_r87bIH5AcVuS1dm0/view?usp=sharing
-3,Book,Environmental Studies,English,NCERT,Looking Around,https://drive.google.com/file/d/1xqMJE6sQLQNzec61xSWzatNVdemWmton/view?usp=sharing
-3,Book,Urdu,Urdu,NCERT,Ibtedai Urdu,https://drive.google.com/file/d/1W_GAhPPrL14Nubm8-kShyJAXHiUboCW0/view?usp=sharing
+3,Book,English,English,NCERT,Marigold,1j7U5E4P6jl5-nVB0ixEvzqDfOETeFlHO
+3,Book,Hindi,Hindi,NCERT,Rimjhim,17bjS-cEnctAOr960Ift0_bpB2xemA7Qt
+3,Book,Maths,Hindi,NCERT,Ganit ka Jaadu,1GHcRrtjwISXQSr42MR1lJ7Ppfwja0UA-
+3,Book,Maths,English,NCERT,Math Magic,1_K08o6BJbBtks63Q9cAP3Ez69tsFrSh2
+3,Book,Maths,Urdu,NCERT,Riyazi ka Jadoo,1unyvtmYLkw7xO3srJfc9qN23z1qNXRqj
+3,Book,Environmental Studies,Hindi,NCERT,Aas Paas,1tuPctRGSdMqP54gYEG1rj05ln0unG25m
+3,Book,Environmental Studies,Urdu,NCERT,Aas Paas (Urdu),1DxDKJUIqmE9URp7_r87bIH5AcVuS1dm0
+3,Book,Environmental Studies,English,NCERT,Looking Around,1xqMJE6sQLQNzec61xSWzatNVdemWmton
+3,Book,Urdu,Urdu,NCERT,Ibtedai Urdu,1W_GAhPPrL14Nubm8-kShyJAXHiUboCW0
 

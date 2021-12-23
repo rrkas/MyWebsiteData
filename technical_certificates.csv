@@ -1,15 +1,15 @@
-date,type,issuer,name,link
-28-05-2021,Course,Cisco Networking Academy,DevNet Associate,https://drive.google.com/file/d/1p4hTkd_A6uj2-eETRkI-FEw-bwJT_xTI/preview?usp=drivesdk
-23-05-2021,Course,SAP SE,SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50,https://drive.google.com/file/d/14I2e3-p35aufVhZPiYCF8uxar4Iy-Kqq/preview?usp=drivesdk
-08-04-2020,Course,Coursera,Python for Everybody,https://drive.google.com/file/d/1ZzQgM50shU-kqnIz3jAlqYOUJxQ0kZ6i/preview?usp=drivesdk
-29-06-2019,Internship,Central Tool Room & Training Centre (CTTC),Core Java,https://drive.google.com/file/d/1JbJVyiHy3jfMto7BqRWynfHYZJLVLvYu/preview?usp=drivesdk
-06-10-2020,Open Source,KIDE,HactoberFest 2020,https://drive.google.com/file/d/19ccEi8Y-3F65vccfJxDFzaTt5EV_pdem/preview?usp=drivesdk
-16-09-2020,Internship,PriME Technology PVT Ltd.,Flutter App Internship - Karmik Suraksha,https://drive.google.com/file/d/12CWAsswL8Z9-TCsSnJy1RM8H7ze7jc8a/preview?usp=drivesdk
-02-01-2021,Internship,PriME Technology PVT Ltd.,Flutter App Internship - Utkristh Gunnavatta,https://drive.google.com/file/d/1qzKDrxgjYXx6Cmj3lZyCjWNwvabEWdV9/preview?usp=drivesdk
-20-10-2019,Workshop,LIT & Spectrum,Python Workshop,https://drive.google.com/file/d/1uhPKTIrDi3F-1N_eAQdq5UbKqB3BOJoH/preview?usp=drivesdk
-31-05-2020,Internship,Nimble Tech & Spectrum,Android App Development,https://drive.google.com/file/d/1WASwDy078AvQYAUozwJV1nXBTVJ1ORJj/preview?usp=drivesdk
-23-04-2021,Course,Cisco Networking Academy,Cybersecurity Essentials,https://drive.google.com/file/d/1UTAA-l4Rcgj1RzIrqW-WH5AeHzZnZc8y/preview?usp=drivesdk
-23-04-2021,Course,Cisco Networking Academy,Introduction to Cybersecurity,https://drive.google.com/file/d/1XQxYHHQUgbPtY5mV6Ixc9XQZb72GNAUx/preview?usp=drivesdk
-30-03-2021,Course,Cisco Networking Academy,Introduction to Packet Tracer,https://drive.google.com/file/d/1UpTJ5_0f_cfXWO6Gft06qmqZkJciYX8Z/preview?usp=drivesdk
-13-03-2021,Course,OpenEDG Python Institute (Cisco),Programming Essentials in Python (PCAP),https://drive.google.com/file/d/1OOZq73deaJrMVNiNO4eRTPCu7D-UjVMO/preview?usp=drivesdk
-03-05-2021,Course,Cisco Networking Academy,CCNAv7: Introduction to Networks,https://drive.google.com/file/d/1cenLYhNJWVyJ5gXWUELNTAVTL31jMp1N/preview?usp=drivesdk
+date,type,issuer,name,gdrive_file_id
+28-05-2021,Course,Cisco Networking Academy,DevNet Associate,1p4hTkd_A6uj2-eETRkI-FEw-bwJT_xTI
+23-05-2021,Course,SAP SE,SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50,14I2e3-p35aufVhZPiYCF8uxar4Iy-Kqq
+08-04-2020,Course,Coursera,Python for Everybody,1ZzQgM50shU-kqnIz3jAlqYOUJxQ0kZ6i
+29-06-2019,Internship,Central Tool Room & Training Centre (CTTC),Core Java,1JbJVyiHy3jfMto7BqRWynfHYZJLVLvYu
+06-10-2020,Open Source,KIDE,HactoberFest 2020,19ccEi8Y-3F65vccfJxDFzaTt5EV_pdem
+16-09-2020,Internship,PriME Technology PVT Ltd.,Flutter App Internship - Karmik Suraksha,12CWAsswL8Z9-TCsSnJy1RM8H7ze7jc8a
+02-01-2021,Internship,PriME Technology PVT Ltd.,Flutter App Internship - Utkristh Gunnavatta,1qzKDrxgjYXx6Cmj3lZyCjWNwvabEWdV9
+20-10-2019,Workshop,LIT & Spectrum,Python Workshop,1uhPKTIrDi3F-1N_eAQdq5UbKqB3BOJoH
+31-05-2020,Internship,Nimble Tech & Spectrum,Android App Development,1WASwDy078AvQYAUozwJV1nXBTVJ1ORJj
+23-04-2021,Course,Cisco Networking Academy,Cybersecurity Essentials,1UTAA-l4Rcgj1RzIrqW-WH5AeHzZnZc8y
+23-04-2021,Course,Cisco Networking Academy,Introduction to Cybersecurity,1XQxYHHQUgbPtY5mV6Ixc9XQZb72GNAUx
+30-03-2021,Course,Cisco Networking Academy,Introduction to Packet Tracer,1UpTJ5_0f_cfXWO6Gft06qmqZkJciYX8Z
+13-03-2021,Course,OpenEDG Python Institute (Cisco),Programming Essentials in Python (PCAP),1OOZq73deaJrMVNiNO4eRTPCu7D-UjVMO
+03-05-2021,Course,Cisco Networking Academy,CCNAv7: Introduction to Networks,1cenLYhNJWVyJ5gXWUELNTAVTL31jMp1N
