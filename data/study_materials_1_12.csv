@@ -58,7 +58,7 @@ class,type,subject,language,source,material_name,gdrive_file_id
 6,Book,Science,Hindi,NCERT,Vigyan,1qOLoBg5XLgiGIFS22MUsPsCp0eLatcT9
 6,Book,Science,Urdu,NCERT,Science,1AqJE_droFu7Xhw-KV_uiZ7JO6BoBjhyd
 6,Book,Social Science,English,NCERT,The Earth: Our Habitat,1k08Laa5IoaSOVOOigklqcV1ownQddTBN
-6,Book,Social Science,English,NCERT,History - Our Past,15MWadGEuTMLM-6KKRCY0Jh73xrS5-TDz
+6,Book,Social Science,English,NCERT,Our Pasts,15MWadGEuTMLM-6KKRCY0Jh73xrS5-TDz
 6,Book,Social Science,English,NCERT,Social and Political Life,16vrjWU59wsBuXe8KyE-23O85NtOzo21i
 6,Book,Social Science,Hindi,NCERT,Hamare Ateet,1xtwYBBC6_sazanIZvJH2uv4-OC8OxMmi
 6,Book,Social Science,Hindi,NCERT,Prithvi: Hamara Avas (Bhugol),1d_kgVR56G3cRRh6jOtw-8_09-CfS3FsN
@@ -79,3 +79,18 @@ class,type,subject,language,source,material_name,gdrive_file_id
 7,Book,Science,Urdu,NCERT,Science,1KimMOA501Xv-NwXK-1XsLwI-q8SAfDHE
 7,Book,English,English,NCERT,Honeycomb,1pH_Ldg55GKMuNCEPgq0rQYhbAo3rDrye
 7,Book,English,English,NCERT,An Alien Hand,1k40-r4iMDT_5mdKmJ_ZppDrGi5yOSrdw
+7,Book,Sanskrit,Sanskrit,NCERT,Ruchira,1LQ5QkStxa5KOUSCExeL9_ojdYFeCfx0p
+7,Book,Social Science,English,NCERT,Social and Political Life,1mrOni5CvRbNnZgLKBCR9Jnbj09y5J_ue
+7,Book,Social Science,Hindi,NCERT,Samajik Evem Rajnitik Jeevan,1tO94mUNtAcUAFqrao1dz2FBQid2r5FqC
+7,Book,Social Science,English,NCERT,Our Pasts,1-JfXOii_adnte--iHb5i2bwXtZO7Svaw
+7,Book,Social Science,Hindi,NCERT,Hamare Ateet,1AxNPgZHfC3yajmBUbDomQJNzlaAulgR2
+7,Book,Social Science,English,NCERT,Our Environment,11GtarhpawzjRSa89lnFIokZ0q3Dss1id
+7,Book,Social Science,Hindi,NCERT,Hamara paryavaran,1uGKUmTy7EH9gA3EGZ0T8tEAJJf16QeJ0
+7,Book,Social Science,Urdu,NCERT,Hamare Maazi,1zul817d_IJGPMQkOC518C0ZYYPdm0nqM
+7,Book,Social Science,Urdu,NCERT,Hamare Mahol,10wQhcNItlgG4zB-rk2hzYvfkrMjJ0YAj
+7,Book,Hindi,Hindi,NCERT,Vasant,1Bf-xeCOrGMPcDbDYlSBR_saQXKab8MzH
+7,Book,Hindi,Hindi,NCERT,Durva,1mvCNmscV7dtQ7O6B1Fpbu1xYfBxhI-PA
+7,Book,Hindi,Hindi,NCERT,Bal Mahabharat,1d62NUs7JylnFwD0iza8UFuRm1gZ8Yoha
+7,Book,Urdu,Urdu,NCERT,Apni Zuban-VII,1ns8gAtkNsC_zYX1dxpG_RmbrIEbGNMcg
+7,Book,Urdu,Urdu,NCERT,Urdu Guldasta,17O8padnslkHvMKfKDougFKT5MKAYzVjm
+7,Book,Urdu,Urdu,NCERT,Door-Pass,1_PizU1Zpq7QY00qJzJcGGtg8N-iyakFz
